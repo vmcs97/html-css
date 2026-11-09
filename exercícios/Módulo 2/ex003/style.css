@@ -1,0 +1,26 @@
+@charset "UTF-8"
+
+/*
+    teste de como ficam os comentários
+*/
+
+body {
+    background-color: rgb(219, 248, 189);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: chartreuse;
+}
+
+#principal {
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+}
+
+h2.basico {
+    color: chocolate;
+}
